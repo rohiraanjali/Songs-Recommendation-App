@@ -113,6 +113,9 @@ li {
 .right-wrapper {
   padding: 0.6rem;
 }
+.left-wrapper {
+  padding-left: 3rem;
+}
 .songs-title {
   font-size: 1.8rem;
   color: #fff;
